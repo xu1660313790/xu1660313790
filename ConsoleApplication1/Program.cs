@@ -61,8 +61,8 @@ namespace ConsoleApplication1
                 if (n == "/")
                     Console.WriteLine("计算结果为：{0}",p.ChuFa(q, w));
             }
-            
-               
+              else
+                Console.WriteLine("两串数据类型不同，不可相加减");
           
             
             Console.ReadKey();
