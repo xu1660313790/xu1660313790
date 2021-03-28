@@ -12,6 +12,7 @@ namespace ConsoleApplication1
            
             Operation p = new Operation();
             string a,b,n;
+            Console.WriterLine("请输入式子");
             a = Convert.ToString(Console.ReadLine());
             n = Convert.ToString(Console.ReadLine());
             b = Convert.ToString(Console.ReadLine());
