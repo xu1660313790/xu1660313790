@@ -9,9 +9,9 @@ namespace ConsoleApplication1
     {
        public void Equals(int a, int b) {
             if (a == b)
-                Console.WriteLine("两串相同");
+                Console.WriteLine("两串数据相同");
             else
-                Console.WriteLine("两串不相等");
+                Console.WriteLine("两串数据不相等");
         }
         public int JiaFa(int a, int b) {
                 return (a + b);
