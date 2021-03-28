@@ -1,0 +1,5 @@
+E:\vs数据\c#课后案例\JiSuanQi\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\vs数据\c#课后案例\JiSuanQi\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\vs数据\c#课后案例\JiSuanQi\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\vs数据\c#课后案例\JiSuanQi\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+E:\vs数据\c#课后案例\JiSuanQi\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
