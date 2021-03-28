@@ -16,6 +16,7 @@ namespace ConsoleApplication1
             a = Convert.ToString(Console.ReadLine());
             n = Convert.ToString(Console.ReadLine());
             b = Convert.ToString(Console.ReadLine());
+             p.Equals(a, b);
             int i, j,k=1,m,f=1,q,w;
             i= a.Length;
             j = b.Length;
